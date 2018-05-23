@@ -9,7 +9,6 @@ during the duration of the Full Stack Web Development nano-degree.
 # Technology
 * HTML 5
 * CSS
-* JavaScript
 * Bootstrap
 
 # Features
