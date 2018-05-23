@@ -6,13 +6,13 @@ The goal of the project is to develop a responsive website that will display
 images, descriptions and links to each of the portfolio projects completed 
 during the duration of the Full Stack Web Development nano-degree.
 
-# Technology##
+# Technology
 * HTML 5
 * CSS
 * JavaScript
 * Bootstrap
 
-# Features##
+# Features
 * Responsive website fits both PC&Mobile devices
 * Grid System
 * RESTful web  services
